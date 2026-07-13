@@ -1,4 +1,4 @@
-## Pollution Predictor
+## Pollution Mapper
 
 - This github repo contains information and work done by Divyam Gupta, for the pollution Predictor project
 
